@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="openDrawer">Open navigation drawer</string>
+    <string name="closeDrawer">Close navigation drawer</string>
+    <string name="customers">Customers</string>
+    <string name="tables">Tables</string>
+    <string name="search">Search customers</string>
+
+</resources>
